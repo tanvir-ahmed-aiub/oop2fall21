@@ -1,0 +1,7 @@
+C:\Users\Teacher\Desktop\OOP2\Lecture 2\Lecture 2\obj\Debug\Lecture 2.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2\Lecture 2\Lecture 2\obj\Debug\Lecture 2.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\Lecture 2\Lecture 2\bin\Debug\Lecture 2.exe.config
+C:\Users\Teacher\Desktop\OOP2\Lecture 2\Lecture 2\bin\Debug\Lecture 2.exe
+C:\Users\Teacher\Desktop\OOP2\Lecture 2\Lecture 2\bin\Debug\Lecture 2.pdb
+C:\Users\Teacher\Desktop\OOP2\Lecture 2\Lecture 2\obj\Debug\Lecture 2.exe
+C:\Users\Teacher\Desktop\OOP2\Lecture 2\Lecture 2\obj\Debug\Lecture 2.pdb
