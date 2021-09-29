@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 
 namespace Array
 {
@@ -21,13 +22,18 @@ namespace Array
             Book b = new Book("Title","Tanvir",2.00);
             Console.WriteLine(b.Author);
             //Book b2 = new Book();
+            var c = new JavaScriptSerializer().Serialize(b);
+            Console.WriteLine(c);
 
             Book[] books= new Book[5];
             books[0] = new Book("Padma Nodir Majhi","Manik Ban",240.00);
             books[1] = b;
-
+            c = new JavaScriptSerializer().Serialize(books);
+            Console.WriteLine(c);
+            var d = new JavaScriptSerializer().Deserialize<Book[]>(c);
+            Console.WriteLine(d.Length);
             for (int i = 0; i < 2; i++) {
-                books[i].Show();
+                d[i].Show();
                 Console.WriteLine("-----------------------");
             }
 

@@ -27,7 +27,7 @@ namespace Array
             get { return price; }
             set { price = value; }
         }
-        //public Book() { }
+        public Book() { }
 
         public Book(string name, string author, double price)
         {
