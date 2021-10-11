@@ -1,0 +1,7 @@
+C:\Users\Teacher\Desktop\OOP2\ProblemSolve\ProblemSolve\bin\Debug\ProblemSolve.exe.config
+C:\Users\Teacher\Desktop\OOP2\ProblemSolve\ProblemSolve\bin\Debug\ProblemSolve.exe
+C:\Users\Teacher\Desktop\OOP2\ProblemSolve\ProblemSolve\bin\Debug\ProblemSolve.pdb
+C:\Users\Teacher\Desktop\OOP2\ProblemSolve\ProblemSolve\obj\Debug\ProblemSolve.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2\ProblemSolve\ProblemSolve\obj\Debug\ProblemSolve.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\ProblemSolve\ProblemSolve\obj\Debug\ProblemSolve.exe
+C:\Users\Teacher\Desktop\OOP2\ProblemSolve\ProblemSolve\obj\Debug\ProblemSolve.pdb

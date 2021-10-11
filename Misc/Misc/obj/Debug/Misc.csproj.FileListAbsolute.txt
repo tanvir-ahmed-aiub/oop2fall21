@@ -1,0 +1,7 @@
+C:\Users\Teacher\Desktop\OOP2\Misc\Misc\obj\Debug\Misc.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2\Misc\Misc\obj\Debug\Misc.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\Misc\Misc\bin\Debug\Misc.exe.config
+C:\Users\Teacher\Desktop\OOP2\Misc\Misc\bin\Debug\Misc.exe
+C:\Users\Teacher\Desktop\OOP2\Misc\Misc\bin\Debug\Misc.pdb
+C:\Users\Teacher\Desktop\OOP2\Misc\Misc\obj\Debug\Misc.exe
+C:\Users\Teacher\Desktop\OOP2\Misc\Misc\obj\Debug\Misc.pdb
