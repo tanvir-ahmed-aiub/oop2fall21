@@ -1,0 +1,10 @@
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\bin\Debug\2Layer.exe.config
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\bin\Debug\2Layer.exe
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\bin\Debug\2Layer.pdb
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\obj\Debug\2Layer.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\obj\Debug\_2Layer.Form1.resources
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\obj\Debug\_2Layer.Properties.Resources.resources
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\obj\Debug\2Layer.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\obj\Debug\2Layer.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\obj\Debug\2Layer.exe
+C:\Users\Teacher\Desktop\OOP2\2Layer\2Layer\obj\Debug\2Layer.pdb

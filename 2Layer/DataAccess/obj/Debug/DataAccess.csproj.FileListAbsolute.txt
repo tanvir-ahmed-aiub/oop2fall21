@@ -1,0 +1,6 @@
+C:\Users\Teacher\Desktop\OOP2\2Layer\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Teacher\Desktop\OOP2\2Layer\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Teacher\Desktop\OOP2\2Layer\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\2Layer\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Teacher\Desktop\OOP2\2Layer\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Teacher\Desktop\OOP2\2Layer\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\bin\Debug\FormAppIntro.exe.config
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\bin\Debug\FormAppIntro.exe
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\bin\Debug\FormAppIntro.pdb
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\obj\Debug\FormAppIntro.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\obj\Debug\FormAppIntro.Properties.Resources.resources
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\obj\Debug\FormAppIntro.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\obj\Debug\FormAppIntro.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\obj\Debug\FormAppIntro.exe
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\obj\Debug\FormAppIntro.pdb
+C:\Users\Teacher\Desktop\OOP2\FormAppIntro\FormAppIntro\obj\Debug\FormAppIntro.Registration.resources

@@ -1,0 +1,7 @@
+C:\Users\Teacher\Desktop\OOP2\InheritanceAdv\InheritanceAdv\bin\Debug\InheritanceAdv.exe.config
+C:\Users\Teacher\Desktop\OOP2\InheritanceAdv\InheritanceAdv\bin\Debug\InheritanceAdv.exe
+C:\Users\Teacher\Desktop\OOP2\InheritanceAdv\InheritanceAdv\bin\Debug\InheritanceAdv.pdb
+C:\Users\Teacher\Desktop\OOP2\InheritanceAdv\InheritanceAdv\obj\Debug\InheritanceAdv.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2\InheritanceAdv\InheritanceAdv\obj\Debug\InheritanceAdv.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\InheritanceAdv\InheritanceAdv\obj\Debug\InheritanceAdv.exe
+C:\Users\Teacher\Desktop\OOP2\InheritanceAdv\InheritanceAdv\obj\Debug\InheritanceAdv.pdb

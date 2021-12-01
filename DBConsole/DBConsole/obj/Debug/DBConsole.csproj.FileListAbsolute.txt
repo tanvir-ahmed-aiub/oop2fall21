@@ -1,0 +1,7 @@
+C:\Users\Teacher\Desktop\OOP2\DBConsole\DBConsole\bin\Debug\DBConsole.exe.config
+C:\Users\Teacher\Desktop\OOP2\DBConsole\DBConsole\bin\Debug\DBConsole.exe
+C:\Users\Teacher\Desktop\OOP2\DBConsole\DBConsole\bin\Debug\DBConsole.pdb
+C:\Users\Teacher\Desktop\OOP2\DBConsole\DBConsole\obj\Debug\DBConsole.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2\DBConsole\DBConsole\obj\Debug\DBConsole.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\OOP2\DBConsole\DBConsole\obj\Debug\DBConsole.exe
+C:\Users\Teacher\Desktop\OOP2\DBConsole\DBConsole\obj\Debug\DBConsole.pdb
